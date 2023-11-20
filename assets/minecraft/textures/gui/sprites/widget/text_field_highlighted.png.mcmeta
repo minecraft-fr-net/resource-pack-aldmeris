@@ -1,0 +1,17 @@
+{
+    "__comment": "JimStoneCraft - 2023",
+    "gui": {
+        "scaling": {
+            "type": "nine_slice",
+            "width": 110,
+            "height": 16,
+            "border": {
+                "left": 30,
+                "top": 4,
+                "right": 30,
+                "bottom": 7
+            }
+        }
+    }
+}
+
